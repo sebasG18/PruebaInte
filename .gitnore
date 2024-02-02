@@ -1,8 +1,5 @@
-# Ignorar el archivo secrets.js
 secrets.js
 
-# Ignorar el archivo credenciales_correo.py
 credenciales_correo.py
 
-# Omitir la carpeta __pycache__
 __pycache__/
